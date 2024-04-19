@@ -1,6 +1,6 @@
 //
-//  Lec3.cpp
-//  Project
+//  basics2.cpp
+//  Pic_10A
 //
 //  Created by Sunny Xiao on 10/4/23.
 //
