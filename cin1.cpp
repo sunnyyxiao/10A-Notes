@@ -1,5 +1,5 @@
 //
-//  Lec6.cpp
+//  cin1.cpp
 //  Pic_10A
 //
 //  Created by Sunny Xiao on 10/11/23.
